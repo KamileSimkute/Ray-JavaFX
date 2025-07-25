@@ -1,4 +1,4 @@
-#Ray Tracer Project (JavaFX)
+Ray Tracer Project (JavaFX)
 
 This project implements a basic ray tracer in JavaFX, focusing on ray-sphere intersection, shading models, and interactive rendering. The goal is to create a simple ray tracer with support for multiple spheres, ambient/diffuse shading, and interactive color adjustments using sliders.
 
