@@ -11,4 +11,4 @@ Multiple Spheres: Supports rendering of multiple spheres with individual colors.
 
 Interactive UI: Allows users to change sphere colors using RGB sliders.
 
-Code Improvements: Refactor code to allow for multiple spheres, better structure, and reusable components like sphere class and material properties.
+Code Improvements: Refactor code to allow for multiple spheres
